@@ -1,1 +1,20 @@
+.history/
+# KiCad backups
+*-bak
+*.kicad_prl
+*.autosave
+_autosave-*
+
+# Fabrication outputs
+gerbers/
+drill/
+production/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python
 __pycache__/
+
+fp-info-cache
