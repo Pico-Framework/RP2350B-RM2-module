@@ -18217,7 +18217,7 @@
 				)
 			)
 		)
-		(property "Value" "APS6404L-3SQR-SN"
+		(property "Value" "APS6404L-3SQN-SN"
 			(at 76.2 196.85 0)
 			(show_name no)
 			(do_not_autoplace no)

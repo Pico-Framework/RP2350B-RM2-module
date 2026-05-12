@@ -5376,7 +5376,7 @@
 				)
 			)
 		)
-		(property "Value" "APS6404L-3SQR-SN"
+		(property "Value" "APS6404L-3SQN-SN"
 			(at 0 3.43 0)
 			(layer "F.Fab")
 			(uuid "f32d73a4-f77b-4fb6-88ad-6795f343516a")
