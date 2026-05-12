@@ -61,7 +61,24 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_clearance|102265000|53704478|66add957-1e56-4e6e-87fb-2bb9b929f598|81730d8c-7667-47db-ad35-e61e6514a1d2",
+          "Standard part JLCPCB can fabricate"
+        ],
+        [
+          "hole_clearance|102265000|53704478|d83dd751-04b4-48d6-9234-a6445082e6aa|81730d8c-7667-47db-ad35-e61e6514a1d2",
+          "Standard part JLCPCB can fabricate"
+        ],
+        [
+          "hole_clearance|96165000|53704478|15a15e0e-b9a5-4cd7-943b-337a1f7d0b26|01cc169c-3faa-424a-9daa-2ce2878baff2",
+          "Standard part JLCPCB can fabricate"
+        ],
+        [
+          "hole_clearance|96165000|53704478|883236cc-4cdc-4ad9-b572-f39edbcbcf9c|01cc169c-3faa-424a-9daa-2ce2878baff2",
+          "Standard part JLCPCB can fabricate"
+        ]
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -717,7 +734,7 @@
   "sheets": [
     [
       "94683f5c-9cd9-448e-be96-9792537b5cb8",
-      "pico-compute-module-radio"
+      "RP2350B-RM2-module"
     ]
   ],
   "text_variables": {},
