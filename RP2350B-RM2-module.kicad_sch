@@ -16421,7 +16421,7 @@
 		(fields_autoplaced yes)
 		(uuid "31beb0b3-741d-4ea8-9364-2da49879897e")
 		(property "Reference" "SW2"
-			(at 133.35 158.4792 0)
+			(at 133.35 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16431,7 +16431,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 133.35 161.0161 0)
+			(at 133.35 160.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
